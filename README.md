@@ -1,4 +1,4 @@
 # myfirstrespository
 tutorial repository
 
-hello my name is ji yeon
+Hello my name is ji yeon
