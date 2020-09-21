@@ -1,7 +1,7 @@
-# myfirstrespository
-tutorial repository
+#19173007 박지연
 
-Hello my name is ji yeon
+##1주차 과제 
 
+##2주차 과제 
 
-#####2주차 과제물 
+##3주차 과제
